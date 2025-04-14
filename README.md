@@ -137,5 +137,5 @@ This project explores how university waitlist practices have evolved over the pa
 
 ## 📬 Questions?
 
-Feel free to open an issue or reach out via [LinkedIn](https://www.linkedin.com/in/raasikhnaveed).
+Feel free to open an issue or reach out via [LinkedIn]((https://www.linkedin.com/in/raasikh-ahmed/).
 
